@@ -1,6 +1,5 @@
 # Virtual Internships 
-Uploaded all Virtual Internships Tasks here. I performed many tasks during the virtual internship. 
-I participated in a virtual internship program offered by Oasis Infobyte, The Spark Foundation, and SYNC interns.
+Uploaded all Virtual Internships Tasks here. I performed many tasks during the virtual internship. I was selected for the virtual internship program offered by Oasis Infobyte, The Spark Foundation, and SYNC interns.
 
 
 ### Data Science Intern: Oasis Infobyte
